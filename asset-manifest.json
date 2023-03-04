@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/airBnb/static/js/main.4f3748b9.js",
+    "static/media/grid.png": "/airBnb/static/media/grid.a72eac74fa5aa72c8c73.png",
+    "static/media/Mtn.jpg": "/airBnb/static/media/Mtn.41d9055b0a347506d29f.jpg",
+    "static/media/zaferes.png": "/airBnb/static/media/zaferes.5d736ac3dc01f817ff4d.png",
+    "static/media/airbnb.png": "/airBnb/static/media/airbnb.e4424517383d14a03a24.png",
+    "static/media/star.png": "/airBnb/static/media/star.8f14fb862818742d8b03.png",
+    "index.html": "/airBnb/index.html",
+    "main.4f3748b9.js.map": "/airBnb/static/js/main.4f3748b9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4f3748b9.js"
+  ]
+}
